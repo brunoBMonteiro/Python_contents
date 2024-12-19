@@ -79,3 +79,14 @@ print(bytearray_exemplo)
 memoryview_exemplo = memoryview(bytes_exemplo)
 print(memoryview_exemplo)
 
+'''
+modo interativo
+serve para o interpretador mostrar o resultado do código na hora
+no terminal: python
+ou script com flag : python -i arquivo.py
+
+
+funções dir e help
+
+'''
+
