@@ -30,3 +30,23 @@ AMOUNT = 2.25
 # Boas práticas em python
 # usar snakecase   teste_do_teste
 # nomes de constantes sempre maiusculo 
+
+# converção de tipos
+# float para inteiro
+
+preco = 10.30
+print(preco)
+
+preco = int(preco)
+print(preco)
+
+# conversão por divisão
+
+preco = 10
+print(preco)
+
+print(preco / 2)
+# saida 5.0
+
+print(preco // 2)
+#saida 5
